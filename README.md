@@ -4,4 +4,4 @@
 - ✨  My skills: Python (pandas, scipy, numpy, matplotlib) / SQL / R
 - ✨  Interested in: Statistics and Probability theory / Data analysis / Time series analysis / Theory of stochastic processes
 - ✨  Currently learning: Advanced statistics / Bayesian statistics / ML fundamentals
-- ✨  Contact me: https://t.me/KateShkod / ekaterinashkodkina@yandex.ru
+- ✨  Contact me: [Telegram](https://t.me/KateShkod) / [E-mail](ekaterinashkodkina@yandex.ru)
